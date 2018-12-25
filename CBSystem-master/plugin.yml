@@ -1,0 +1,33 @@
+name: CBSystem
+version: 1.1.2
+main: de.denJakob.CBSystem.main.Main
+author: denJakob
+website: www.denJakob.de
+commands:
+     set:
+     spawn:
+     kopf:
+          aliases: [head]
+     abfall:
+     broadcast:
+          aliases: [bc]
+     chatclear:
+          aliases: [cc]
+     ping:
+     report:
+     spec:
+     unspec:
+     teamchat:
+          aliases: [tc]
+     event:
+     startkick:
+          aliases: [votekick]
+     slowchat:
+     ja:
+     nein:
+     startban: 
+          aliases: [voteban]
+     cbsystem:
+     armor:
+          aliases: [viewarmor]
+     bold:

@@ -1,0 +1,9 @@
+#############################################################
+# Config für CBSystem                                       #
+# Author: denJakob											#
+#############################################################
+
+#Here can you change the noPermission message
+noPermission: '&cDazu hast du keine Rechte!'
+
+#Here can you configure the other messages

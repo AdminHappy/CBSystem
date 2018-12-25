@@ -1,0 +1,45 @@
+#############################################################
+# Config für CBSystem                                       #
+# Author: denJakob											#
+#############################################################
+
+Prefix: '&e•● &6CityBuild &8| &7'
+Prefix_System: '&eSystem &8| &7'
+
+#Here can you configure the Shop inventory title
+shopInventoryTitle: '&6Shop'
+
+#Here can you configure the Shopskin
+shopSkin: 'denJakob'
+
+#Here can you configure the tablist
+tablist: true
+tabHeader: ' \n    &6DeinServer&7.&6NET &8× &7CityBuild Server \n &7Dein Server &8» &b%server% \n '
+tabFooter: ' \n &7TeamSpeak &8» &fDeinServer.NET\n &7  Hacker gefunden? &8» &f/report [Name] [Grund]  \n'
+
+#Here can you configure the motds for the gamestates
+Motd: '&e•● &6CityBuild &8| &7NEU: cooles System                   &7von &6denJakob'
+
+#Here can you configure the scoreboard
+Scoreboard: true
+ScoreboardName: '&6DeinServer.NET'
+
+#Here can you enable and disable commands
+AbfallCommand: true
+BoldCommand: true
+BroadcastCommand: true
+ChatclearCommand: true
+EventCommand: true
+KopfCommand: true
+PingCommand: true
+ReportCommand: true
+SlowchatCommand: true
+SpawnCommand: true
+SpecCommand: true
+TeamchatCommand: true
+ViewArmorCommand: true
+
+#Here can you enable and disable different things
+Abstimmung: true
+Chat: true
+TPtoSpawnAfterDeath: true
