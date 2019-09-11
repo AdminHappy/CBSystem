@@ -22,7 +22,7 @@ Motd: '&e•● &6CityBuild &8| &7NEU: cooles System                   &7von &6d
 
 #Here can you configure the scoreboard
 Scoreboard: true
-ScoreboardName: '&6DeinServer.NET'
+ScoreboardName: '&6Melonencraft.de'
 
 #Here can you enable and disable commands
 AbfallCommand: true
